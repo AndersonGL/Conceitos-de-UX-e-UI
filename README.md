@@ -1,4 +1,4 @@
-# Conceitos-de-UX-e-UI
+# Conceitos-de-UI-e-UX
 
 - UI (Interface do Usuário) e UX (Experiência do Usuário)
 
